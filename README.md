@@ -10,7 +10,7 @@
 ** Easy to Use & Extend:** Experience intuitive navigation and a clear structure, making customization and contributions a breeze.
 ⚡️ Getting Started:
 
-Clone this Repository: git clone https://github.com/[your-username]/[your-project-name].git
+
 Install Dependencies: npm install
 Configure Credentials: Create a .env.local file and securely store your OpenAI API key and Google Sign-in credentials.
 Start the Server: npm run dev
